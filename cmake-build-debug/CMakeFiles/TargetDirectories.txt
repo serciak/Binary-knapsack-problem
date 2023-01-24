@@ -1,0 +1,3 @@
+/Users/serek/CLionProjects/list6_miniproject/cmake-build-debug/CMakeFiles/list6_miniproject.dir
+/Users/serek/CLionProjects/list6_miniproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/serek/CLionProjects/list6_miniproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
